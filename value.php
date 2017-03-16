@@ -160,7 +160,8 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='❤ CHAUDHRYS BOTTER ❤ AFAQ AHMED ❤';
+$site='❤ CHAUDHRYS BOTTER ❤ AFAQ AHMED ❤
+❤ AFAQ-ZAIN.TK ❤';
 $true=$ops.'
  '.$ips.'
 🏡 '.$site;
